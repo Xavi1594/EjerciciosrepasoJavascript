@@ -1,0 +1,3 @@
+// 1. Partiendo del código actual de los archivos app y ex1, en lugar en imprimir el nombre toca imprimir “Hello Javascript” y modificar nombre de function y nombre de variable adecuadamente.
+
+// 2. creando un nuevo modulo "ex2.js" , por ejemplo, crear una function que pueda sumar 3 números y retorne el resultado y ejecutar esta function desde app(). Imprimir resultado con un console.log. OJO fijaros bien hay trampa jojojo
